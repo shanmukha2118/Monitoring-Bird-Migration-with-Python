@@ -57,3 +57,13 @@ Step 4: Predict Future Migration Locations
 
 Step 5: Save and Export Data
 
+# Result:
+
+ Successfully examined data on bird migration, illustrating flying routes and important rest stops. Determined changes in altitude and speed as well as seasonal migration patterns.Grouped migration routes that illustrate shared travels between several bird species.
+ 
+ # Conclusion:
+
+ Seasons and environmental conditions impact the predictable migration paths of birds.Conservation efforts should concentrate on stopover spots because they are essential for rest. Using previous data, machine learning models can be incorporated into future research to forecast migration trends.
+
+
+
